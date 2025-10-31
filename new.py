@@ -151,40 +151,29 @@ def symptoms_by_diet():
     st.plotly_chart(fig4, use_container_width=True)
 
 # -----------------------------------------------------------
-# 6. Clean Water Access by Region
+# 5. Smoking Habits by Gender (Pie Charts)
 # -----------------------------------------------------------
-st.subheader("Clean Water Access by Region")
+st.subheader("Smoking Habits by Gender")
 
-fig6 = px.bar(
-    df,
-    y='Region/Locality',
-    color='Access to Clean Water & Sanitation',
-    title="Clean Water Access by Region",
-    orientation='h',
-    barmode='group',
-    labels={'Region/Locality': 'Region / Locality', 'count': 'Number of Respondents'}
-)
-st.plotly_chart(fig6, use_container_width=True)
+genders = df['Gender'].unique()
+cols = st.columns(len(genders))
 
+for i, gender in enumerate(genders):
+    subset = df[df['Gender'] == gender]
+    smoking_counts = subset['Smoking Habit'].value_counts().reset_index()
+    smoking_counts.columns = ['Smoking Habit', 'Count']
 
-# -------------------------
-# 6. Clean Water Access by Region
-# -------------------------
-def water_by_region():
-    ok, missing = has_cols('Region/Locality', 'Access to Clean Water & Sanitation')
-    if not ok:
-        st.warning(f"Missing columns for this chart: {missing}")
-        return
-    st.subheader("Clean Water Access by Region")
-    fig6 = px.histogram(
-        df,
-        y='Region/Locality',
-        color='Access to Clean Water & Sanitation',
-        title='Clean Water Access by Region',
-        orientation='h',
-        labels={'count': 'Number of Respondents'}
+    fig7 = px.pie(
+        smoking_counts,
+        names='Smoking Habit',
+        values='Count',
+        title=f"Smoking Habits among {gender}",
+        hole=0.4
     )
-    st.plotly_chart(fig6, use_container_width=True)
+
+    with cols[i]:
+        st.plotly_chart(fig7, use_container_width=True)
+
 
 # -------------------------
 # Page router
