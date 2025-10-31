@@ -151,57 +151,40 @@ def symptoms_by_diet():
     st.plotly_chart(fig4, use_container_width=True)
 
 # -----------------------------------------------------------
-# 5. Smoking Habits by Gender (Pie Charts)
+# 5. Smoking Habits by Gender (Fixed)
 # -----------------------------------------------------------
 st.subheader("Smoking Habits by Gender")
 
-genders = df['Gender'].unique()
-cols = st.columns(len(genders))
+try:
+    genders = df['Gender'].dropna().unique().tolist()
 
-for i, gender in enumerate(genders):
-    subset = df[df['Gender'] == gender]
-    smoking_counts = subset['Smoking Habit'].value_counts().reset_index()
-    smoking_counts.columns = ['Smoking Habit', 'Count']
+    # Handle no gender data
+    if not genders:
+        st.warning("No gender data found in the dataset.")
+    else:
+        cols = st.columns(len(genders))
 
-    fig7 = px.pie(
-        smoking_counts,
-        names='Smoking Habit',
-        values='Count',
-        title=f"Smoking Habits among {gender}",
-        hole=0.4
-    )
+        for i, gender_value in enumerate(genders):
+            subset_df = df[df['Gender'] == gender_value]
+            counts = subset_df['Smoking Habit'].value_counts().reset_index()
+            counts.columns = ['Smoking Habit', 'Count']
 
-    with cols[i]:
-        st.plotly_chart(fig7, use_container_width=True)
+            # Only draw chart if data exists
+            if not counts.empty:
+                fig = px.pie(
+                    counts,
+                    names='Smoking Habit',
+                    values='Count',
+                    title=f"Smoking Habits among {str(gender_value).title()}",
+                    hole=0.4,
+                    color_discrete_sequence=px.colors.qualitative.Safe
+                )
+                cols[i].plotly_chart(fig, use_container_width=True)
+            else:
+                cols[i].info(f"No smoking data for {gender_value}")
 
+except Exception as e:
+    st.error(f"Error displaying pie charts: {e}")
 
-# -------------------------
-# Page router
-# -------------------------
-if page == "All charts":
-    with container:
-        smoking_vs_health()
-        st.markdown("---")
-        activity_vs_mental()
-        st.markdown("---")
-        mental_by_smoking()
-        st.markdown("---")
-        symptoms_by_diet()
-        st.markdown("---")
-        smoking_by_gender()
-        st.markdown("---")
-        water_by_region()
-else:
-    with container:
-        if page == "Smoking vs Health":
-            smoking_vs_health()
-        elif page == "Activity vs Mental Health":
-            activity_vs_mental()
-        elif page == "Symptoms by Diet":
-            symptoms_by_diet()
-        elif page == "Smoking by Gender":
-            smoking_by_gender()
-        elif page == "Clean Water by Region":
-            water_by_region()
 
 
