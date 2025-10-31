@@ -151,27 +151,21 @@ def symptoms_by_diet():
     st.plotly_chart(fig4, use_container_width=True)
 
 # -----------------------------------------------------------
-# 5. Smoking Habits by Gender (Pie Charts)
+# 6. Clean Water Access by Region
 # -----------------------------------------------------------
-st.subheader("Smoking Habits by Gender")
+st.subheader("Clean Water Access by Region")
 
-genders = df['Gender'].unique()
-cols = st.columns(len(genders))
+fig6 = px.bar(
+    df,
+    y='Region/Locality',
+    color='Access to Clean Water & Sanitation',
+    title="Clean Water Access by Region",
+    orientation='h',
+    barmode='group',
+    labels={'Region/Locality': 'Region / Locality', 'count': 'Number of Respondents'}
+)
+st.plotly_chart(fig6, use_container_width=True)
 
-for i, gender in enumerate(genders):
-    subset = df[df['Gender'] == gender]
-    smoking_counts = subset['Smoking Habit'].value_counts().reset_index()
-    smoking_counts.columns = ['Smoking Habit', 'Count']
-
-    fig = px.pie(
-        smoking_counts,
-        names='Smoking Habit',
-        values='Count',
-        title=f"Smoking Habits among {gender}",
-        hole=0.4
-    )
-    with cols[i]:
-        st.plotly_chart(fig, use_container_width=True)
 
 # -------------------------
 # 6. Clean Water Access by Region
