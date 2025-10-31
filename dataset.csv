@@ -1,0 +1,572 @@
+Name,Gender,Age Group,Profession,Region/Locality,Smoking Habit,Alcohol Consumption,Physical Activity Level,Fast Food Consumption Frequency,Current Health Conditions,Common Regional Health Concerns,Access to Clean Water & Sanitation,Pollution Exposure Area,Mental Health Frequency,Healthcare Access Method,Preferred Language for Chatbot,Sleep Duration,Sleep Issues,Diet Type,Water Intake per Day,symptoms,particiualr disease,preferred platform,Blood group
+Aditi,f,18,student,kothri kalan,no,no,low(5 min),very low,good,"chiken pox, flu,",yes,very less,moderate,low access,hindi,6 hrs,no,veg,4 litres,"headache,memory loss",alzheimers,whatsapp,O+
+Anjali,f,20,student,kothri kalan,no,no,good(90 min),4 times in week,good,"chicken pox, flu",yes,very less,good,low access,english,6 hrs,no,veg,4 litres,cold.cough,no,whatsapp,A+
+Priya,f,19,student,kothri kalan,no,no,low(5 min),5 times in week,good,"chicken pox, flu, malaria",yes,very less,"moderate, anxiety",low access,english,4 hrs,no,nonveg,2 litres,"cold,",fever,whatsapp,A+
+Kavya,f,19,student,kothri kalan,no,no,moderate(40 min),once in week,good,"food poisoning, cough, cold",yes,very less,good,low access,english,9 hrs,no,nonveg,3 litres,headache,fewer,whatsapp,O+
+Sneha,f,19,student,kothri kalan,no,no,2 hrs,3 times in week,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3.5 litres,body pain,no,wp,O+
+Nisha,f,19,student,kothri kalan,no,no,low(25 min),once a week,moderate,"chicken pox, flu, malaria, food poisoning",yes,very less,good,low access,english,7 hrs,no,veg,4 litres,stomach pain,stomach pain,wp,O+
+Riya,f,19,student,kothri kalan,no,no,low(15 min),none,good,"chicken pox, flu, malaria, food poisoning",yes,very less,"good, overthinking, stress",low access,english,5 hrs,no,non veg,3 litres,"body main , weaknees",no,both,b+
+Shreya,f,18,student,kothri kalan,no,no,low(10 min),once in week,good,"food poisoning, cough, cold",yes,very less,good,low access,english,4 hrs,late wakeup,non veg,3 lites,haeadach,no,wp,B+
+Pooja,f,19,student,kothri kalan,no,no,good(1 hr),once in week,good,"food poisoning, chicken pox",yes,very less,good,low access/bad service,english,6 hrs,no,veg,4 litres,cough sneez weaknees,no,wp,b+
+Meera,f,20,student,kothri kalan,no,no,moderate(40 min),none,moderate,"chicken pox, viral fever, flu",yes,very less,"moderate, stress",moderate,english,6 hrs,no,veg,5 litres,cough cold,no,wp,AB+
+Sanya,f,20,student,kothri kalan,no,no,moderate(40 min),none,moderate,"chicken pox, viral fever, flu",yes,very less,good,below average,english,8 hrs,no,veg,4 litres,"body pain,headache, eye",no,whatsapp,a+
+Divya,f,19,student,kothri kalan,no,no,good(1 hr),3 times in week,not good,"chicken pox, viral fever, flu",yes,very less,moderate/average,bad,english,12 hrs,no,veg,2.5 litres,weakness,no,whatsapp,A+
+Ayesha,f,20,student,kothri kalan,no,no,low(20 min),none,good,"chicken pox, viral fever, flu",yes,very less,good,below average,english,5:30 hrs,no,non veg,4 litres,"body pain,",no,whatsapp,B+
+Neha,f,20,student,kothri kalan,no,no,moderate(40 min),twice in week,good,"chicken pox, viral fever, flu",yes,very less,good,below average,english,7 hrs,no,veg,3 litres,weakness,no,whatsapp,O+
+Smita,f,19,student,vit,yes,no,hard,no,weak,seasonal,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,B+
+Radhika,f,17,student,vit,no,no,high,yes,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,Hindi,8,weak,mix,5,"cold,",fever,whatsapp,AB+
+Ananya,f,18,student,vit,no,nno,medium,no,normal,pimples,filter,no,no,doctor,Hindi,10,no,veg,5,headache,fewer,whatsapp,b+
+Isha,f,20,student,vit,no,no,medium,yes,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,college doctor,hindi,8,no,mix,8,headache cough,asthma,"website , wp",AB-
+Swati,f,19,student,vit,no,no,medium,yes,good,"Chiken pox ,cold hair fall,scabies",filter,no,mo,doctor,Hindi,8,no,veg,5,headache,no,whatsapp,A+
+Jyoti,f,19,student,vit,no,no,medium,no,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Kiran,f,19,student,vit,no,no,medium,no,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Sapna,f,19,student,vit,no,no,medium,yes,fever,"Chiken pox ,cold hair fall,scabies",filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",B+
+Alka,f,19,student,vit,no,no,medium,yes,cough,seasonal,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Rekha,f,18,student,vit,no,no,medium,yes,good,no,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Mansi,f,19,student,vit,no,no,hard,yes,good,seasonal,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,B+
+Pallavi,f,20,student,vit,no,no,hard,yes,normal,seasonal,filter,no,no,doctor,Hindi,8,weak,mix,5,"cold,",fever,whatsapp,A+
+Bhavna,f,20,student,vit,no,no,high,yes,weak,seasonal,filter,no,no,doctor,Hindi,10,no,veg,5,headache,fewer,whatsapp,O+
+Sheetal,f,19,student,vit,no,no,high,yes,good,seasonal,filter,no,stress,college doctor,hindi,8,no,mix,8,headache cough,asthma,"website , wp",B+
+Nupur,f,20,student,vit,no,no,medium,yes,good,seasonal,filter,no,mo,doctor,Hindi,8,no,veg,5,headache,no,whatsapp,B+
+Charu,f,20,student,vit,no,no,high,yes,good,seasonal,filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Rajat,M,20,student,kothri kalan,no,no,moderate(45 min),once a week,good,flu,yes,very less,good,low access,english/hindi,7 hrs,sleep paralysis(fatigue),veg,3 litres,"loose motion,headache",migrane,whatsapp,B+
+Nishant,M,19,student,kothri kalan,no,no,low(5 min),very low,good,"chiken pox, flu,",yes,very less,moderate,low access,hindi,6 hrs,no,veg,4 litres,"headache,memory loss",alzheimers,whatsapp,O+
+Pranav,M,20,student,kothri kalan,no,no,good(90 min),4 times in week,good,"chicken pox, flu",yes,very less,good,low access,english,6 hrs,no,veg,4 litres,cold.cough,no,whatsapp,B+
+Aryan,M,19,student,kothri kalan,no,no,low(5 min),5 times in week,good,"chicken pox, flu, malaria",yes,very less,"moderate, anxiety",low access,english,4 hrs,no,nonveg,2 litres,"cold,",fever,whatsapp,AB+
+ameya,M,19,student,kothri kalan,no,no,moderate(40 min),once in week,good,"food poisoning, cough, cold",yes,very less,good,low access,english,9 hrs,no,nonveg,3 litres,headache,fewer,whatsapp,A+
+devansh,M,19,student,kothri kalan,no,no,2 hrs,3 times in week,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3.5 litres,body pain,no,wp,O+
+harshit,M,19,student,kothri kalan,no,no,low(25 min),once a week,moderate,"chicken pox, flu, malaria, food poisoning",yes,very less,good,low access,english,7 hrs,no,veg,4 litres,stomach pain,stomach pain,wp,O+
+Ravi,M,19,student,kothri kalan,no,no,low(15 min),none,good,"chicken pox, flu, malaria, food poisoning",yes,very less,"good, overthinking, stress",low access,english,5 hrs,no,non veg,3 litres,"body main , weaknees",no,both,b+
+Ajay,M,18,student,kothri kalan,no,no,low(10 min),once in week,good,"food poisoning, cough, cold",yes,very less,good,low access,english,4 hrs,late wakeup,non veg,3 lites,haeadach,no,wp,b-
+laksh,M,19,student,kothri kalan,no,no,good(1 hr),once in week,good,"food poisoning, chicken pox",yes,very less,good,low access/bad service,english,6 hrs,no,veg,4 litres,cough sneez weaknees,no,wp,b+
+Harsh,M,20,student,kothri kalan,no,no,moderate(40 min),none,moderate,"chicken pox, viral fever, flu",yes,very less,"moderate, stress",moderate,english,6 hrs,no,veg,5 litres,cough cold,no,wp,AB+
+Shivam,M,20,student,kothri kalan,no,no,moderate(40 min),none,moderate,"chicken pox, viral fever, flu",yes,very less,good,below average,english,8 hrs,no,veg,4 litres,"body pain,headache, eye",no,whatsapp,a+
+Ayush,M,19,student,kothri kalan,no,no,good(1 hr),3 times in week,not good,"chicken pox, viral fever, flu",yes,very less,moderate/average,bad,english,12 hrs,no,veg,2.5 litres,weakness,no,whatsapp,a+
+Tejas,M,20,student,kothri kalan,no,no,low(20 min),none,good,"chicken pox, viral fever, flu",yes,very less,good,below average,english,5:30 hrs,no,non veg,4 litres,"body pain,",no,whatsapp,b+
+Veer,M,19,student,kothri kalan,no,no,moderate(40 min),twice in week,good,"chicken pox, viral fever, flu",yes,very less,good,below average,english,7 hrs,no,veg,3 litres,weakness,no,whatsapp,o+
+Abhiram,m,19,student,vit,no,no,medium,no,good,"chicken pox, fever",filter,no,good,average,english,7,no,veg,4 litres,"body pain ,weakness",no,whatsapp,ab+
+Rajesh,M,38,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+hariom,m,22,shopkeeper,kothri,no,no,medium,no,normal,normal,normal,normal,normal,normal,normal,normal,weak,mix,5,"normal,heart pain",no,wp,o+
+rohit,m,24,shopkeeper,kothri,no,no,medium,no,normal,no,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,b+
+anurag,m,49,mess incharge,Bhopal,no,no,hard,no,good,seasonal,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+chetan singh,m,30,supervisor house keeping,asta,no,no,high,yes,weak,seasonal,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+abhijeet mewada,m,30,supervisor house keeping,asta,no,no,high,no,weak,seasonal,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,AB+
+divan anjan maity,m,29,Hostel supervisor,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+akilesh vishvakarma,m,37,Hostel supervisor,ichawar,no,no,medium,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+sanjay kumar jain,m,38,Hostel supervisor,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b+
+dheeraj,m,42,hostel admin,vit,no,no,hard,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+vishal,m,21,guard,astha,no,no,hard,miner,cough,seasonal,borewell,no,no,clinic,hindi,8,no,veg,5,cough cold,no,wp,AB+
+azhar,m,28,guard,kotri,no,no,high,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+ankit,m,21,mess guard,kothri,no,n,medium,yes,good,seasonal,mix,no,no,village,Hindi,10,no problem,veg,3,weakness,no,whatsapp,ab+
+pradumman,m,32,mess guard,lala khedi,yes,yes,medium,no,normal,seasonal,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o+
+ritesh,m,24,mess guard,kothri,no,no,medium,no,weak,seasonal,mix,no,no,Village,Hindi,8,no,mix,7,"body pain,headache, eye",no,whatsapp,o+
+shekhar,m,25,hostel guard5,gaon,no,no,medium,no,good,seasonal,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+vishal,m,18,house keeping,kothri,no,no,medium,no,good,seasonal,mix,no,no,hospital,Hindi,5,no,mix,5,"body pain,headache, eye",no,whatsapp,a+
+parvind,m,30,house keeping,ratanpur,no,no,medium,no,good,seasonal,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a+
+dharam singhg,m,30,house keeping,kothri,tabacoo,yes,medium,no,good,seasonal,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a+
+vijay,m,40,house keeping,gawakheda,no,no,medium,no,good,seasonal,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+ajay,m,22,"daily wage worker,farmer",golukheda,no,no,medium,no,good,seasonal,borewell,no,no,village,Hindi,6,no,mix,6,body pain,no,whatsapp,o+
+ujjwaal,m,27,"daily wage worker,farmer",kothri,no,no,hard,no,good,seasonal,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a+
+jayram,m,23,"daily wage worker,farmer",kothri,no,no,high,no,normal,seasonal,borewell,no,no,hospital,Hindi,6,no,veg,5,weakness,no,whatsapp,o-
+kaushal,m,34,worker,kothri,yes,yes,high,no,weak,seasonal,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B+
+daksh,m,25,worker,kratan pur,no,yes,high,no,good,seasonal,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB+
+suresh patil,m,47,automobine manager,aehemdabad,no,no,medium,no,good,seasonal,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b+
+Arjun gawai,m,50,gov officer,"sakharkherda ,MH",no,no,medium,no,good,seasonal,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Binod kumar thakur,m,50,gov officer,gorakhpur,no,no,hard,no,good,seasonal,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+harsh,m,29,student,vit,yes,no,hard,no,weak,seasonal,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,A+
+yug,m,18,student,vit,no,no,high,yes,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,Hindi,8,weak,mix,5,"cold,",fever,whatsapp,o+
+astitva,m,19,student,vit,no,nno,medium,no,normal,pimples,filter,no,no,doctor,Hindi,10,no,veg,5,headache,fewer,whatsapp,B+
+sparsh,m,19,student,vit,no,no,medium,yes,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,college doctor,hindi,8,no,mix,8,headache cough,asthma,"website , wp",B+
+aniket,m,19,student,vit,no,no,medium,yes,good,"Chiken pox ,cold hair fall,scabies",filter,no,mo,doctor,Hindi,8,no,veg,5,headache,no,whatsapp,O+
+kartik rajput,m,19,student,vit,no,no,medium,no,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Aditya,m,19,student,vit,no,no,medium,yes,fever,"Chiken pox ,cold hair fall,scabies",filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b+
+Rahul,m,20,student,vit,no,no,medium,yes,cough,seasonal,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Karan,m,19,student,vit,no,no,medium,yes,good,no,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Siddharth,m,19,student,vit,no,no,hard,yes,good,seasonal,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,A+
+Ankit,m,19,student,vit,no,no,hard,yes,normal,seasonal,filter,no,no,doctor,Hindi,8,weak,mix,5,"cold,",fever,whatsapp,A+
+Vikram,m,18,student,vit,no,no,high,yes,weak,seasonal,filter,no,no,doctor,Hindi,10,no,veg,5,headache,fewer,whatsapp,B+
+Arjun,m,19,student,vit,no,no,high,yes,good,seasonal,filter,no,stress,college doctor,hindi,8,no,mix,8,headache cough,asthma,"website , wp",O+
+Rohan,m,19,student,vit,no,no,medium,yes,good,seasonal,filter,no,mo,doctor,Hindi,8,no,veg,5,headache,no,whatsapp,B+
+Manish,m,19,student,vit,no,no,high,yes,good,seasonal,filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Abhishek,m,19,student,vit,no,no,low,yes,good,seasonal,filter,medium,no,pvt hospital,Hindi,7,no,veg,5,very less,"good, overthinking","website,wp",b+
+Nikhil,m,19,student,vit,no,no,low,yes,good,seasonal,filter,no,strees,pvt hospital,Hindi,8,no,veg,6,very less,moderate,"website,wp",ab+
+Pranav,m,19,student,vit,no,no,medium,yes,good,seasonal,filter,medium,strees,clinic,hindi,7,no,veg,4,very less,good,"website,wp",B+
+Sameer,m,19,student,vit,no,no,medium,yes,good,seasonal,filter,no,stress,doctor,Hindi,7,no,veg,6,very less,"moderate, anxiety","website,wp",A+
+Sanjay,m,19,student,vit,no,no,medium,yes,normal,seasonal,filter,no,no,doctor,Hindi,6,no,veg,,very less,good,"website,wp",AB+
+Rohit,m,18,student,vit,no,no,hard,yes,weak,seasonal,filter,no,no,doctor,Hindi,5,no,veg,7,very less,good,"website,wp",a+
+Ajay,m,19,student,vit,no,no,high,yes,good,seasonal,filter,no,stress,college doctor,hindi,5,no,veg,8,very less,good,"website,wp",b+
+Deepak,m,20,student,vit,no,no,high,no,good,seasonal,filter,no,mo,doctor,Hindi,7,no,veg,4,very less,"good, overthinking, stress","website,wp",b+
+Rajesh,m,20,student,vit,no,no,high,yes,good,seasonal,filter,no,no,doctor,haryanvi,8,no,veg,4,very less,good,"website,wp",O+
+Amit,m,19,student,vit,no,no,medium,no,good,seasonal,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,very less,good,"website,wp",b+
+Anil,m,20,student,vit,no,no,medium,yes,weak,seasonal,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,very less,"moderate, stress","website,wp",b+
+Suresh,m,20,student,vit,no,no,hard,yes,good,"Chiken pox ,cold hair fall,scabies",filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Vijay,m,19,student,vit,no,no,hard,yes,normal,pimples,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,A+
+Mohit,m,20,student,vit,no,no,high,yes,fever,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,Hindi,8,weak,mix,5,"cold,",fever,whatsapp,A+
+Harish,m,19,student,vit,no,no,medium,no,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,Hindi,7,no,veg,5,headache,fewer,whatsapp,A+
+Gaurav,m,19,student,vit,no,no,medium,yes,weak,"Chiken pox ,cold hair fall,scabies",filter,no,stress,college doctor,hindi,8,no,mix,8,headache cough,asthma,"website , wp",B+
+Ashish,m,19,student,vit,no,no,medium,yes,normal,seasonal,filter,no,mo,doctor,Hindi,8,no,veg,5,headache,no,whatsapp,B+
+Tarun,m,19,student,vit,no,no,medium,yes,weak,seasonal,filter,no,no,doctor,haryanvi,8,no,veg,5,body pain,no,whatsapp,o+
+Naveen,m,19,student,vit,no,no,medium,yes,good,seasonal,filter,medium,strees,clinic,hindi,7,no,veg,4,very less,good,"website,wp",O+
+Vinay,m,18,student,vit,no,no,medium,yes,good,seasonal,filter,no,stress,doctor,Hindi,7,no,veg,6,very less,"moderate, anxiety","website,wp",B+
+Ravindra,m,19,student,vit,no,no,medium,yes,good,seasonal,filter,no,no,doctor,Hindi,6,no,veg,,very less,good,"website,wp",A+
+Aakriti,f,50,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Aarav,M,21,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Aashish,M,22,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Abhinav,M,23,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Aditya,M,24,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Ajay,M,25,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Akash,M,26,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Akshay,M,27,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Ankit,M,28,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Ankur,M,29,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Ansh,M,30,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Arjun,M,31,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Ashok,M,32,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Atul,M,33,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Ayush,M,34,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Bharat,M,35,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Bhavya,M,36,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Chetan,M,37,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Daksh,M,38,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Deepak,M,39,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Dev,M,40,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Dhruv,M,41,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Divyansh,M,42,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Gaurav,M,43,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Harsh,M,44,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Himanshu,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Hitesh,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Ishaan,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Jaideep,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Jayant,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Jatin,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Jitesh,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Kabir,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Karan,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Kunal,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Lakshay,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Manav,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Manish,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Mayank,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Mohit,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Mukesh,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Naveen,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Neeraj,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Nikhil,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Nishant,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Om,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Parth,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Pranav,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Prateek,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Pratik,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Praveen,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Prem,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Rahul,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Raj,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Rajat,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Rakesh,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Raman,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Ravi,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Rishabh,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Rohan,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Rohit,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Sachin,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Sahil,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Sandeep,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Sanjay,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Sanket,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Saurabh,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Shashank,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Shekhar,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Shivam,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Shubham,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Siddharth,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Sumit,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Sunny,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Suresh,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Tarun,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Tejas,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Utkarsh,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Varun,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Vikas,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Vinay,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Vineet,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Vishal,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Vivek,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Yash,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Yogesh,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Aakriti,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Aanchal,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Aditi,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Aishwarya,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Akansha,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Akriti,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Alisha,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Amrita,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Anamika,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Anjali,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Ankita,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Anu,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Anushka,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Apurva,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Aradhana,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Arpita,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Ashima,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Avantika,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Avni,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Bhavna,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Bhumika,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Chhavi,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Damini,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Deepika,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Devika,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Disha,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Divya,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Ekta,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Garima,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Geetika,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Gauri,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Gunjan,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Hina,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Isha,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Jaya,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Jyoti,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Kajol,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Kanika,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Kavita,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Khushi,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Kriti,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Latika,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Madhuri,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Mahima,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Malika,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Meena,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Megha,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Misha,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Monika,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Muskan,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Naina,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Nandini,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Neha,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Nikita,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Nisha,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Pooja,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Prachi,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Pratibha,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Priya,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Priyanka,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Purvi,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Radha,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Rani,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Rati,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Reena,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Ria,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Ritu,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Riya,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Saloni,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Samiksha,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Sangeeta,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Sanya,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Sarika,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Seema,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Shalini,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Shikha,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Shivani,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Shraddha,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Shruti,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Simran,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Smriti,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Sneha,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Sonia,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Sonam,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Sonali,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Surbhi,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Swati,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Tanvi,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Tanuja,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Tarini,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Tina,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Usha,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Vaishnavi,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Vandana,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Vani,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Vidisha,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Vidya,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Yamini,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Yashika,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Yashvi,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Aaditya,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Aarav,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Abhay,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Abhishek,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Adarsh,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Ajit,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Akshat,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Aman,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Anand,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Animesh,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Anirudh,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Ankit,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Anmol,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Anuj,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Arnav,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Arvind,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Ashish,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Ayushman,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Balram,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Bhushan,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Bipin,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Chandan,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Dinesh,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Ganesh,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Gagan,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Gaurav,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Harish,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Hemant,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Inder,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Jai,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Jatin,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Jitendra,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Kailash,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Kanak,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Kartik,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Kiran,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Krishna,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Lalit,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Mahesh,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Manoj,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Naveen,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Naveen,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Niranjan,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Nirmal,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Omkar,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Pankaj,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Parag,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Paras,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Piyush,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Prateek,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Prem,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Punit,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Rajesh,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Ranjan,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Rakesh,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Ravindra,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Ritesh,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Rohan,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Sandeep,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Sanjay,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Santosh,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Saurav,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Shailesh,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Shantanu,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Siddhant,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Subhash,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Sudhir,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Sushil,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Swaraj,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Tanish,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Tanmay,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Uday,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Varun,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Vikas,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Vinod,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Yogendra,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Aditi,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Akshara,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Amisha,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Anamika,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Anika,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Anjana,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Anshika,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Anuja,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Anushka,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Aparna,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Aradhana,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Arti,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Ashwariya,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Bhavika,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Bhawna,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Chanchal,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Chitra,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Damini,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Darshana,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Debasmita,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Deepa,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Dipti,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Disha,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Divya,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Ekta,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Gargi,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Garima,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Gitanjali,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Gunjan,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Hema,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Indu,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Ishita,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Janvi,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Jigyasa,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Juhi,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Kajal,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Kalpana,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Kanishka,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Kiran,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Komal,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Lakshmi,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Madhulika,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Manisha,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Maithili,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Mamta,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Mansi,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Meenakshi,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Minakshi,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Mohini,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Muskaan,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Namrata,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Nandita,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Nidhi,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Naina,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Pooja,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Pooja,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Prachi,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Prerna,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Priyanka,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Rachna,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Radhika,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Rashmi,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Ritu,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Rukmini,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Sadhana,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Sagarika,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Sakshi,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Saloni,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Samiksha,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Sangeeta,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Sangeeta,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Shikha,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Shivangi,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Shivani,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Shobha,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Shradha,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Simran,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Smita,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Sonam,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Surbhi,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Sweta,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Tanushree,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Tanuja,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Tejaswini,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Trupti,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Uma,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Vaishali,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Vaishnavi,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Vibha,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Vidhi,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Yashika,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Yogita,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Abhishek,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Adarsh,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Aditya,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Ajit,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Akshay,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Aman,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Amit,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Ankit,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Ankur,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Arjun,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Ashish,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Atul,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Ayush,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Bharat,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Chetan,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Deepak,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Dinesh,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Gaurav,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Harsh,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Himanshu,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Hitesh,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Ishaan,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Jaideep,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Jatin,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Karan,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Kunal,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Lakshay,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Manish,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Mayank,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Mohit,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Naveen,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Nikhil,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Nishant,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Pankaj,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Prateek,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Pratik,M,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Praveen,M,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Prem,M,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Rahul,M,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Rajat,M,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Rakesh,M,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Ravi,M,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Rishabh,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Rohit,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Sachin,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Sahil,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Sandeep,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Sanjay,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Saurabh,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Shubham,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Siddharth,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Sumit,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Tarun,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Vikas,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Vinay,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Vishal,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Vivek,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Aakriti,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Aditi,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Aishwarya,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Akansha,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Anjali,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Ankita,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Anushka,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Divya,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Garima,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+Jyoti,f,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+Kanika,f,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+Kriti,f,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+Megha,f,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+Muskan,f,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+Neha,f,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+Nisha,f,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+Pooja,f,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+Priya,f,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+Priyanka,f,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+Ritu,f,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+Riya,f,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+Saloni,f,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+Shalini,f,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+Shikha,f,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+Shivani,f,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+Shruti,f,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
+Simran,f,24,worker,kratan pur,yes,yes,medium,no,good,s,borewell,no,stress,village,Hindi,6,no,veg,6,"headache,memory loss",alzheimers,whatsapp,AB-
+Sneha,f,25,"daily wage worker,farmer",kothri,no,no,hard,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,5,"body pain,",no,whatsapp,a-
+Sonali,f,26,guard,kotri,no,no,low,no,good,no,borewell,no,no,hospital,Hindi,8,no,mix,4,body pain,no,wp,O+
+Surbhi,f,27,student,vit,no,no,medium,no,weak,s,filter,no,stress,doctor,Hindi,8,no,veg,5,cold.cough,no,whatsapp,AB+
+Swati,f,28,h.s,hostel,no,no,high,no,good,skin,filter,no,high,clinic,hindi,7,yes initial,mix,5-Jan,stomach pain,stomach pain,wp,O+
+Tanvi,f,29,house keeping,ratanpur,no,no,high,no,good,s,borewell,no,no,hospital,Hindi,6,no,veg,4,weakness,no,whatsapp,a-
+Yashika,f,30,supervisor house keeping,asta,no,no,hard,yes,weak,s,borewell,no,no,hospital,Hindi,8,no,mix,4,weakness,no,whatsapp,b+
+User_483,M,31,supervisor house keeping,asta,no,no,hard,no,weak,s,mix,no,no,village,Hindi,7,nno,mix,4,weakness,no,whatsapp,b+
+User_484,M,32,house keeping,kothri,yes,yes,high,no,good,s,borewell,no,no,doctor,Hindi,8,no,mix,7,"body pain ,weakness",no,whatsapp,a-
+User_485,M,33,mess g,lala khedi,yes,yes,medium,no,normal,s,mix,no,no,Village,Hindi,5,no problem,mix,5,"body pain,headache, eye",no,whatsapp,o-
+User_486,M,34,worker,kothri,yes,yes,high,no,weak,s,borewell,no,no,village,Hindi,7,no,mix,5,"loose motion,headache",migrane,whatsapp,B-
+User_487,M,35,h.s,ichawar,no,no,high,no,good,hygene problems,normal,no,medium,home treatment,hindi,6,no,veg,8,"body main , weaknees",no,both,b+
+User_488,M,36,h.s,vit,no,no,medium,no,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,family doctor,"hi,englidh ,guj",6,initial without tv,veg,3,haeadach,no,wp,b-
+User_489,M,37,shopkeeper,kothri kalan,no,no,moderate(30 min),none,good,"flu, food poisoning",moderate/average,very less,good,low,hindi/english,6:30 hrs,no,veg,4 litres,body pain,no,whatsapp,a-
+User_490,M,38,house keeping,gawakheda,no,no,medium,no,good,s,mix,no,no,Village,Hindi,7,no,mix,7,no,no,whatsapp,ab+
+User_491,M,39,hostel admin,vit,no,no,high,no,fever,"Chiken pox ,cold hair fall,scabies",filter,no,strees,doctor vit,hindi,6,some times,mix,3,cough sneez weaknees,no,wp,b+
+User_492,M,40,automobine manager,aehemdabad,no,no,medium,no,good,s,filter,medium,no,pvt hospital,Hindi,6,no,mix,6,"eye pain , Headache,weakness",daibetes,"website , wp",b-
+User_493,M,41,mess incharge,Bhopal,no,no,medium,no,good,s,filter,no,no,hospital,Hindi,8,no,veg,5,no,no,whatsapp,a+
+User_494,M,42,gov officer,"sakharkherda ,MH",no,no,medium,no,good,s,filter,no,strees,pvt hospital,Hindi,6,no,mix,6,eye oain body oain,acidity,whatsapp,b+
+User_495,M,43,gov officer,gorakhpur,no,no,medium,no,good,s,filter,medium,strees,clinic,hindi,8,no,mix,6,body pain,no,whatsapp,ab+
+User_496,M,20,student,kothri,no,no,medium,yes,good,"chicken pox, flu",yes,very less,good,low access,english,7 hrs,no,nonveg,3 litres,cold.cough,no,whatsapp,O+
+User_497,M,21,house keeping,vit,no,no,low,no,good,s,mix,no,no,doctor,Hindi,8,no,mix,4,weakness,no,whatsapp,a-
+User_498,M,22,shopkeeper,kothri,no,no,medium,no,normal,s,borewell,no,strees,clinic,Hindi,6,no,veg,6,"body pain ,weakness",no,wp,o-
+User_499,M,23,mess g,gaon,no,no,hard,no,good,s,mix,no,no,village,Hindi,7,no,mix,5,weakness,no,whatsapp,a-
