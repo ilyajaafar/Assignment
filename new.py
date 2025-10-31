@@ -150,38 +150,28 @@ def symptoms_by_diet():
     )
     st.plotly_chart(fig4, use_container_width=True)
 
-# -------------------------
+# -----------------------------------------------------------
 # 5. Smoking Habits by Gender (Pie Charts)
-# -------------------------
-def smoking_by_gender():
-    ok, missing = has_cols('Gender', 'Smoking Habit')
-    if not ok:
-        st.warning(f"Missing columns for this chart: {missing}")
-        return
-    st.subheader("Smoking Habits by Gender")
-    genders = sorted(df['Gender'].dropna().astype(str).unique())
-    if len(genders) == 0:
-        st.warning("No gender values found.")
-        return
-    cols = st.columns(min(3, len(genders)))
-    # If many genders, show scrollable vertical list instead
-    if len(genders) > 3:
-        for gender in genders:
-            st.write(f"**{gender}**")
-            data = df[df['Gender'] == gender]['Smoking Habit'].value_counts().reset_index()
-            if data.empty:
-                st.write("No data for this gender.")
-                continue
-            fig = px.pie(data, names='index', values='Smoking Habit', title=f"{gender}")
-            st.plotly_chart(fig, use_container_width=True)
-    else:
-        for i, gender in enumerate(genders):
-            data = df[df['Gender'] == gender]['Smoking Habit'].value_counts().reset_index()
-            if data.empty:
-                cols[i].write(f"No data for {gender}")
-                continue
-            fig = px.pie(data, names='index', values='Smoking Habit', title=f"{gender}")
-            cols[i].plotly_chart(fig, use_container_width=True)
+# -----------------------------------------------------------
+st.subheader("Smoking Habits by Gender")
+
+genders = df['Gender'].unique()
+cols = st.columns(len(genders))
+
+for i, gender in enumerate(genders):
+    subset = df[df['Gender'] == gender]
+    smoking_counts = subset['Smoking Habit'].value_counts().reset_index()
+    smoking_counts.columns = ['Smoking Habit', 'Count']
+
+    fig = px.pie(
+        smoking_counts,
+        names='Smoking Habit',
+        values='Count',
+        title=f"Smoking Habits among {gender}",
+        hole=0.4
+    )
+    with cols[i]:
+        st.plotly_chart(fig, use_container_width=True)
 
 # -------------------------
 # 6. Clean Water Access by Region
