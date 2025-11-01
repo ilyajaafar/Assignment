@@ -44,7 +44,7 @@ page = st.sidebar.radio(
 # -----------------------------------------------------------
 # PAGE 1: Lifestyle & Health Conditions
 # -----------------------------------------------------------
-if page == "Lifestyle
+if page == "Lifestyle"
 
 
 
