@@ -13,7 +13,7 @@ st.title("🩺 Lifestyle and Health Condition Dashboard")
 # -----------------------------------------------------------
 # LOAD DATA
 # -----------------------------------------------------------
-url = "https://raw.githubusercontent.com/ilyajaafar/Assignment/main/dataset.csv"  # Change if needed
+url = "https://raw.githubusercontent.com/ilyajaafar/Assignment/refs/heads/main/dataset%20(1).csv"  # Change if needed
 
 @st.cache_data
 def load_data():
