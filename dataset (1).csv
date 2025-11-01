@@ -1,0 +1,499 @@
+Name,Gender,Age Group,Profession,Region/Locality,Smoking Habit,Alcohol Consumption,Physical Activity Level,Fast Food Consumption Frequency,Current Health Conditions,Common Regional Health Concerns,Access to Clean Water & Sanitation,Pollution Exposure Area,Mental Health Frequency,Healthcare Access Method,Sleep Duration,Sleep Issues,Diet Type,symptoms,particiualr disease
+Smita,f,19,student,vit,yes,no,hard,very low,weak,seasonal,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Radhika,f,17,student,vit,no,no,high,miner,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,weak,mix,cold,fever
+Ananya,f,18,student,vit,no,no,medium,very low,normal,pimples,filter,no,no,doctor,10.0,no,veg,headache,fever
+Isha,f,20,student,vit,no,no,medium,miner,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,8.0,no,mix,"headache,cough",asthma
+Swati,f,19,student,vit,no,no,medium,miner,good,"Chiken pox ,cold hair fall,scabies",filter,no,moderate,doctor,8.0,no,veg,headache,no
+Jyoti,f,19,student,vit,no,no,medium,very low,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,no,veg,body pain,no
+Kiran,f,19,student,vit,no,no,medium,very low,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,no,veg,body pain,no
+Sapna,f,19,student,vit,no,no,medium,miner,fever,"Chiken pox ,cold hair fall,scabies",filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Alka,f,19,student,vit,no,no,medium,miner,cough,seasonal,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Rekha,f,18,student,vit,no,no,medium,miner,good,no,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Mansi,f,19,student,vit,no,no,hard,miner,good,seasonal,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Pallavi,f,20,student,vit,no,no,hard,miner,normal,seasonal,filter,no,no,doctor,8.0,weak,mix,cold,fever
+Bhavna,f,20,student,vit,no,no,high,miner,weak,seasonal,filter,no,no,doctor,10.0,no,veg,headache,fever
+Sheetal,f,19,student,vit,no,no,high,miner,good,seasonal,filter,no,stress,doctor,8.0,no,mix,"headache,cough",asthma
+Nupur,f,20,student,vit,no,no,medium,miner,good,seasonal,filter,no,moderate,doctor,8.0,no,veg,headache,no
+Charu,f,20,student,vit,no,no,high,miner,good,seasonal,filter,no,no,doctor,8.0,no,veg,body pain,no
+Abhiram,m,19,student,vit,no,no,medium,very low,good,"chicken pox, fever",filter,no,good,average,7.0,no,veg,"body pain,weakness",no
+rohit,m,24,shopkeeper,kothri,no,no,medium,very low,normal,no,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+anurag,m,49,mess incharge,bhopal,no,no,hard,very low,good,seasonal,filter,no,no,hospital,8.0,no,veg,no,no
+chetan singh,m,30,supervisor house keeping,asta,no,no,high,miner,weak,seasonal,borewell,no,no,hospital,8.0,no,mix,weakness,no
+abhijeet mewada,m,30,supervisor house keeping,asta,no,no,high,very low,weak,seasonal,mix,no,no,home treatment,7.0,no,mix,weakness,no
+divan anjan maity,m,29,Hostel supervisor,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+akilesh vishvakarma,m,37,Hostel supervisor,ichawar,no,no,medium,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+sanjay kumar jain,m,38,Hostel supervisor,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+dheeraj,m,42,hostel admin,vit,no,no,hard,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+vishal,m,21,guard,astha,no,no,hard,miner,cough,seasonal,borewell,no,no,doctor,8.0,no,veg,cough cold,no
+azhar,m,28,guard,kothri,no,no,high,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+ankit,m,21,mess guard,kothri,no,no,medium,miner,good,seasonal,mix,no,no,home treatment,10.0,no,veg,weakness,no
+pradumman,m,32,mess guard,lala khedi,yes,yes,medium,very low,normal,seasonal,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+ritesh,m,24,mess guard,kothri,no,no,medium,very low,weak,seasonal,mix,no,no,home treatment,8.0,no,mix,"body pain,headache, eye",no
+shekhar,m,25,hostel guard5,gaon,no,no,medium,very low,good,seasonal,mix,no,no,home treatment,7.0,no,mix,weakness,no
+vishal,m,18,house keeping,kothri,no,no,medium,very low,good,seasonal,mix,no,no,hospital,5.0,no,mix,"body pain,headache, eye",no
+parvind,m,30,house keeping,ratanpur,no,no,medium,very low,good,seasonal,borewell,no,no,hospital,6.0,no,veg,weakness,no
+dharam singhg,m,30,house keeping,kothri,yes,yes,medium,very low,good,seasonal,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+vijay,m,40,house keeping,gawakheda,no,no,medium,very low,good,seasonal,mix,no,no,home treatment,7.0,no,mix,no,no
+ajay,m,22,"daily wage worker,farmer",golukheda,no,no,medium,very low,good,seasonal,borewell,no,no,home treatment,6.0,no,mix,body pain,no
+ujjwaal,m,27,"daily wage worker,farmer",kothri,no,no,hard,very low,good,seasonal,borewell,no,no,hospital,6.0,no,veg,body pain,no
+jayram,m,23,"daily wage worker,farmer",kothri,no,no,high,very low,normal,seasonal,borewell,no,no,hospital,6.0,no,veg,weakness,no
+kaushal,m,34,worker,kothri,yes,yes,high,very low,weak,seasonal,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+daksh,m,25,worker,ratanpur,no,yes,high,very low,good,seasonal,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+suresh patil,m,47,automobine manager,ahmedabad,no,no,medium,very low,good,seasonal,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Arjun gawai,m,50,gov officer,"sakharkherda, mh",no,no,medium,very low,good,seasonal,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Binod kumar thakur,m,50,gov officer,gorakhpur,no,no,hard,very low,good,seasonal,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+harsh,m,29,student,vit,yes,no,hard,very low,weak,seasonal,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+yug,m,18,student,vit,no,no,high,miner,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,weak,mix,cold,fever
+astitva,m,19,student,vit,no,no,medium,very low,normal,pimples,filter,no,no,doctor,10.0,no,veg,headache,fever
+sparsh,m,19,student,vit,no,no,medium,miner,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,8.0,no,mix,"headache,cough",asthma
+aniket,m,19,student,vit,no,no,medium,miner,good,"Chiken pox ,cold hair fall,scabies",filter,no,moderate,doctor,8.0,no,veg,headache,no
+kartik rajput,m,19,student,vit,no,no,medium,very low,weak,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,no,veg,body pain,no
+Aditya,m,19,student,vit,no,no,medium,miner,fever,"Chiken pox ,cold hair fall,scabies",filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Rahul,m,20,student,vit,no,no,medium,miner,cough,seasonal,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Karan,m,19,student,vit,no,no,medium,miner,good,no,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Siddharth,m,19,student,vit,no,no,hard,miner,good,seasonal,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Ankit,m,19,student,vit,no,no,hard,miner,normal,seasonal,filter,no,no,doctor,8.0,weak,mix,cold,fever
+Vikram,m,18,student,vit,no,no,high,miner,weak,seasonal,filter,no,no,doctor,10.0,no,veg,headache,fever
+Arjun,m,19,student,vit,no,no,high,miner,good,seasonal,filter,no,stress,doctor,8.0,no,mix,"headache,cough",asthma
+Rohan,m,19,student,vit,no,no,medium,miner,good,seasonal,filter,no,moderate,doctor,8.0,no,veg,headache,no
+Manish,m,19,student,vit,no,no,high,miner,good,seasonal,filter,no,no,doctor,8.0,no,veg,body pain,no
+Abhishek,m,19,student,vit,no,no,low,miner,good,seasonal,filter,medium,no,hospital,7.0,no,veg,very less,no
+Nikhil,m,19,student,vit,no,no,low,miner,good,seasonal,filter,no,stress,hospital,8.0,no,veg,very less,no
+Pranav,m,19,student,vit,no,no,medium,miner,good,seasonal,filter,medium,stress,doctor,7.0,no,veg,very less,no
+Sameer,m,19,student,vit,no,no,medium,miner,good,seasonal,filter,no,stress,doctor,7.0,no,veg,very less,no
+Rohit,m,18,student,vit,no,no,hard,miner,weak,seasonal,filter,no,no,doctor,5.0,no,veg,very less,no
+Ajay,m,19,student,vit,no,no,high,miner,good,seasonal,filter,no,stress,doctor,5.0,no,veg,very less,no
+Deepak,m,20,student,vit,no,no,high,very low,good,seasonal,filter,no,moderate,doctor,7.0,no,veg,very less,no
+Rajesh,m,20,student,vit,no,no,high,miner,good,seasonal,filter,no,no,doctor,8.0,no,veg,very less,no
+Amit,m,19,student,vit,no,no,medium,very low,good,seasonal,filter,medium,no,hospital,6.0,no,mix,very less,no
+Anil,m,20,student,vit,no,no,medium,miner,weak,seasonal,filter,no,stress,hospital,6.0,no,mix,very less,no
+Suresh,m,20,student,vit,no,no,hard,miner,good,"Chiken pox ,cold hair fall,scabies",filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Vijay,m,19,student,vit,no,no,hard,miner,normal,pimples,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Mohit,m,20,student,vit,no,no,high,miner,fever,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,8.0,weak,mix,cold,fever
+Harish,m,19,student,vit,no,no,medium,very low,good,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,7.0,no,veg,headache,fever
+Gaurav,m,19,student,vit,no,no,medium,miner,weak,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,8.0,no,mix,"headache,cough",asthma
+Ashish,m,19,student,vit,no,no,medium,miner,normal,seasonal,filter,no,moderate,doctor,8.0,no,veg,headache,no
+Tarun,m,19,student,vit,no,no,medium,miner,weak,seasonal,filter,no,no,doctor,8.0,no,veg,body pain,no
+Naveen,m,19,student,vit,no,no,medium,miner,good,seasonal,filter,medium,stress,doctor,7.0,no,veg,very less,no
+Vinay,m,18,student,vit,no,no,medium,miner,good,seasonal,filter,no,stress,doctor,7.0,no,veg,very less,no
+Aakriti,f,50,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Aashish,m,22,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Abhinav,m,23,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Aditya,m,24,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Ajay,m,25,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Akash,m,26,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Akshay,m,27,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Ankit,m,28,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Ankur,m,29,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Ansh,m,30,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Arjun,m,31,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Ashok,m,32,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Atul,m,33,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Ayush,m,34,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Bharat,m,35,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Bhavya,m,36,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Chetan,m,37,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Deepak,m,39,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Dev,m,40,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Dhruv,m,41,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Divyansh,m,42,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Gaurav,m,43,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Harsh,m,44,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Hitesh,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Ishaan,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Jaideep,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Jayant,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Jatin,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Jitesh,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Kabir,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Karan,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Kunal,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Lakshay,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Manav,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Manish,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Mayank,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Mohit,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Mukesh,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Naveen,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Nikhil,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Nishant,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Om,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Parth,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Pranav,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Prateek,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Praveen,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Prem,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Rahul,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Raj,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Rajat,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Rakesh,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Raman,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Ravi,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Rishabh,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Rohan,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Rohit,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Sachin,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Sahil,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Sandeep,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Sanjay,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Sanket,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Shashank,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Shekhar,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Shivam,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Shubham,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Siddharth,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Sumit,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Suresh,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Tarun,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Tejas,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Utkarsh,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Varun,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Vikas,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Vinay,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Vineet,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Vishal,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Vivek,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Yash,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Yogesh,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Aakriti,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Aanchal,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Aditi,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Aishwarya,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Akriti,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Alisha,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Amrita,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Anamika,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Anjali,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Ankita,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Anushka,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Apurva,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Aradhana,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Arpita,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Ashima,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Avantika,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Avni,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Bhavna,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Bhumika,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Chhavi,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Damini,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Deepika,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Devika,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Disha,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Divya,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Ekta,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Geetika,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Gauri,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Gunjan,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Hina,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Isha,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Jaya,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Kajol,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Kanika,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Kavita,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Khushi,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Kriti,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Latika,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Madhuri,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Mahima,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Malika,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Meena,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Megha,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Misha,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Monika,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Muskan,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Naina,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Nandini,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Nikita,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Nisha,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Pooja,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Prachi,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Pratibha,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Priya,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Purvi,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Radha,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Rani,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Rati,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Reena,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Ria,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Ritu,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Riya,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Saloni,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Samiksha,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Sangeeta,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Sanya,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Sarika,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Seema,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Shalini,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Shikha,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Shraddha,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Shruti,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Simran,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Smriti,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Sneha,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Sonia,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Sonali,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Surbhi,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Swati,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Tanvi,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Tanuja,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Tarini,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Tina,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Usha,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Vaishnavi,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Vandana,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Vani,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Vidisha,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Vidya,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Yamini,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Yashika,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Yashvi,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Aarav,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Abhay,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Abhishek,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Adarsh,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Ajit,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Akshat,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Anand,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Animesh,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Anirudh,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Ankit,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Anmol,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Anuj,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Arnav,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Arvind,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Ashish,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Ayushman,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Balram,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Bhushan,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Bipin,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Chandan,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Dinesh,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Ganesh,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Gaurav,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Harish,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Hemant,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Inder,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Jai,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Jatin,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Kailash,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Kanak,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Kartik,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Kiran,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Krishna,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Lalit,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Mahesh,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Manoj,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Naveen,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Naveen,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Niranjan,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Nirmal,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Omkar,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Pankaj,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Parag,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Paras,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Prateek,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Prem,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Punit,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Rajesh,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Ranjan,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Rakesh,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Ritesh,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Rohan,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Sandeep,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Sanjay,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Santosh,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Saurav,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Shailesh,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Shantanu,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Siddhant,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Subhash,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Sudhir,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Sushil,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Swaraj,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Tanish,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Tanmay,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Uday,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Vikas,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Vinod,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Yogendra,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Aditi,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Akshara,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Amisha,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Anika,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Anjana,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Anshika,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Anuja,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Anushka,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Aparna,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Aradhana,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Arti,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Ashwariya,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Bhavika,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Bhawna,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Chanchal,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Chitra,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Damini,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Darshana,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Debasmita,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Dipti,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Disha,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Divya,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Ekta,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Gargi,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Garima,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Gunjan,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Hema,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Indu,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Ishita,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Janvi,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Jigyasa,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Juhi,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Kajal,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Kalpana,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Kanishka,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Kiran,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Komal,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Lakshmi,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Madhulika,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Manisha,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Maithili,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Mansi,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Meenakshi,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Minakshi,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Mohini,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Muskaan,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Namrata,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Nidhi,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Naina,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Pooja,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Pooja,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Prachi,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Prerna,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Priyanka,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Rachna,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Radhika,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Rashmi,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Ritu,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Rukmini,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Sadhana,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Sagarika,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Sakshi,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Saloni,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Sangeeta,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Sangeeta,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Shikha,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Shivangi,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Shivani,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Shobha,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Simran,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Smita,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Sonam,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Surbhi,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Sweta,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Tanushree,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Tanuja,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Tejaswini,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Trupti,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Uma,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Vaishali,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Vaishnavi,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Vibha,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Vidhi,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Yogita,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Adarsh,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Aditya,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Ajit,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Akshay,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Aman,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Amit,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Ankur,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Arjun,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Ashish,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Atul,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Ayush,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Bharat,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Chetan,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Deepak,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Dinesh,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Gaurav,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Harsh,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Himanshu,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Hitesh,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Ishaan,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Jaideep,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Jatin,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Kunal,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Lakshay,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Manish,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Mayank,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Mohit,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Naveen,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Nishant,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Pankaj,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Prateek,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Pratik,m,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Praveen,m,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Prem,m,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Rahul,m,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Rajat,m,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Rakesh,m,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Ravi,m,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Rishabh,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Rohit,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Sachin,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Sahil,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Sandeep,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Sanjay,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Shubham,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Siddharth,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Sumit,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Tarun,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Vikas,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Vinay,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Vivek,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Aakriti,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Aditi,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Aishwarya,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Akansha,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Anjali,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Ankita,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Anushka,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Divya,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Garima,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+Jyoti,f,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Kanika,f,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+Kriti,f,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+Megha,f,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+Muskan,f,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+Neha,f,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+Pooja,f,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+Priya,f,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+Priyanka,f,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+Ritu,f,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+Riya,f,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+Saloni,f,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+Shikha,f,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+Shivani,f,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+Shruti,f,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+Simran,f,24,worker,ratanpur,yes,yes,medium,very low,good,s,borewell,no,stress,home treatment,6.0,no,veg,"headache,memory loss",alzheimers
+Sneha,f,25,"daily wage worker,farmer",kothri,no,no,hard,very low,good,s,borewell,no,no,hospital,6.0,no,veg,body pain,no
+Sonali,f,26,guard,kothri,no,no,low,very low,good,no,borewell,no,no,hospital,8.0,no,mix,body pain,no
+Surbhi,f,27,student,vit,no,no,medium,very low,weak,s,filter,no,stress,doctor,8.0,no,veg,"cold,cough",no
+Swati,f,28,h.s,hostel,no,no,high,very low,good,skin,filter,no,high,doctor,7.0,yes initial,mix,stomach pain,stomach pain
+Tanvi,f,29,house keeping,ratanpur,no,no,high,very low,good,s,borewell,no,no,hospital,6.0,no,veg,weakness,no
+Yashika,f,30,supervisor house keeping,asta,no,no,hard,miner,weak,s,borewell,no,no,hospital,8.0,no,mix,weakness,no
+User_483,m,31,supervisor house keeping,asta,no,no,hard,very low,weak,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
+User_484,m,32,house keeping,kothri,yes,yes,high,very low,good,s,borewell,no,no,doctor,8.0,no,mix,"body pain,weakness",no
+User_485,m,33,mess g,lala khedi,yes,yes,medium,very low,normal,s,mix,no,no,home treatment,5.0,no,mix,"body pain,headache, eye",no
+User_486,m,34,worker,kothri,yes,yes,high,very low,weak,s,borewell,no,no,home treatment,7.0,no,mix,"loose motion,headache",migrane
+User_487,m,35,h.s,ichawar,no,no,high,very low,good,hygene problems,normal,no,medium,home treatment,6.0,no,veg,"body pain,weakness",no
+User_488,m,36,h.s,vit,no,no,medium,very low,cough,"Chiken pox ,cold hair fall,scabies",filter,no,no,doctor,6.0,yes initial,veg,headache,no
+User_490,m,38,house keeping,gawakheda,no,no,medium,very low,good,s,mix,no,no,home treatment,7.0,no,mix,no,no
+User_491,m,39,hostel admin,vit,no,no,high,very low,fever,"Chiken pox ,cold hair fall,scabies",filter,no,stress,doctor,6.0,yes initial,mix,"cough,sneeze,weakness",no
+User_492,m,40,automobine manager,ahmedabad,no,no,medium,very low,good,s,filter,medium,no,hospital,6.0,no,mix,"eye pain,headache,weakness",diabetes
+User_493,m,41,mess incharge,bhopal,no,no,medium,very low,good,s,filter,no,no,hospital,8.0,no,veg,no,no
+User_494,m,42,gov officer,"sakharkherda, mh",no,no,medium,very low,good,s,filter,no,stress,hospital,6.0,no,mix,"eye pain,body pain",acidity
+User_495,m,43,gov officer,gorakhpur,no,no,medium,very low,good,s,filter,medium,stress,doctor,8.0,no,mix,body pain,no
+User_497,m,21,house keeping,vit,no,no,low,very low,good,s,mix,no,no,doctor,8.0,no,mix,weakness,no
+User_498,m,22,shopkeeper,kothri,no,no,medium,very low,normal,s,borewell,no,stress,doctor,6.0,no,veg,"body pain,weakness",no
+User_499,m,23,mess g,gaon,no,no,hard,very low,good,s,mix,no,no,home treatment,7.0,no,mix,weakness,no
