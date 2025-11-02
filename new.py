@@ -98,7 +98,7 @@ with tab2:
         gender_data = gender_smoke.loc[gender]
         fig = px.pie(
             values=gender_data.values, names=gender_data.index,
-            title=f"Smoking Habits among {gender}s", hole=0.3
+            title=f"Smoking Habits among {gender}", hole=0.3
         )
         with cols[i]:
             st.plotly_chart(fig, use_container_width=True)
