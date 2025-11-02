@@ -1,211 +1,248 @@
-# app.py
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-# -----------------------------------------------------------
-# PAGE CONFIG
-# -----------------------------------------------------------
-st.set_page_config(page_title="Lifestyle & Health Visualization Dashboard", layout="wide")
-st.title("🩺 Lifestyle and Health Condition Dashboard")
+# -----------------------------
+# Load the dataset
+# -----------------------------
+df = pd.read_csv("dataset (1).csv")
 
-# -----------------------------------------------------------
-# LOAD DATA
-# -----------------------------------------------------------
-url = "https://raw.githubusercontent.com/ilyajaafar/Assignment/refs/heads/main/dataset%20(1).csv"  # Change if needed
+st.title("Objective 1: Relationship Between Lifestyle Habits and Health Conditions")
 
-@st.cache_data
-def load_data():
-    try:
-        df = pd.read_csv(url)
-    except Exception:
-        st.warning("⚠️ Could not load from GitHub, please upload manually below.")
-        uploaded = st.file_uploader("Upload your dataset (CSV)", type="csv")
-        if uploaded:
-            df = pd.read_csv(uploaded)
-        else:
-            st.stop()
-    return df
+# -----------------------------
+# Visualization 1: Smoking Habit vs Health Conditions (Clustered Bar)
+# -----------------------------
+st.subheader("1️⃣ Relationship between Smoking Habit and Current Health Conditions")
 
-df = load_data()
-st.success("✅ Dataset successfully loaded!")
-st.write("**Preview of dataset:**")
-st.dataframe(df.head())
+smoking_health_crosstab = pd.crosstab(df['Smoking Habit'], df['Current Health Conditions']).reset_index()
+smoking_melted = smoking_health_crosstab.melt(id_vars='Smoking Habit', var_name='Health Condition', value_name='Count')
 
-# -----------------------------------------------------------
-# NAVIGATION
-# -----------------------------------------------------------
-page = st.sidebar.radio(
-    "📊 Choose a Dashboard Section:",
-    ["Lifestyle & Health Conditions", "Lifestyle by Age & Gender", "Access to Wellness by Region"]
+fig1 = px.bar(
+    smoking_melted,
+    x='Smoking Habit',
+    y='Count',
+    color='Health Condition',
+    barmode='group',
+    title='Relationship between Smoking Habit and Current Health Conditions'
+)
+st.plotly_chart(fig1, use_container_width=True)
+
+# -----------------------------
+# Visualization 2: Fast Food Consumption Frequency (Pie Chart)
+# -----------------------------
+st.subheader("2️⃣ Distribution of Fast Food Consumption Frequency")
+
+fastfood_counts = df['Fast Food Consumption Frequency'].value_counts().reset_index()
+fastfood_counts.columns = ['Fast Food Consumption Frequency', 'Count']
+
+fig2 = px.pie(
+    fastfood_counts,
+    values='Count',
+    names='Fast Food Consumption Frequency',
+    title='Distribution of Fast Food Consumption Frequency',
+    hole=0.3
+)
+st.plotly_chart(fig2, use_container_width=True)
+
+# -----------------------------
+# Visualization 3: Current Health Conditions (Pie Chart)
+# -----------------------------
+st.subheader("3️⃣ Distribution of Current Health Conditions")
+
+health_conditions_counts = df['Current Health Conditions'].value_counts().reset_index()
+health_conditions_counts.columns = ['Current Health Conditions', 'Count']
+
+fig3 = px.pie(
+    health_conditions_counts,
+    values='Count',
+    names='Current Health Conditions',
+    title='Distribution of Current Health Conditions',
+    hole=0.3
+)
+st.plotly_chart(fig3, use_container_width=True)
+
+# -----------------------------
+# Visualization 4: Physical Activity vs Mental Health (Heatmap)
+# -----------------------------
+st.subheader("4️⃣ Relationship Between Physical Activity and Mental Health")
+
+pivot = df.pivot_table(
+    index='Physical Activity Level',
+    columns='Mental Health Frequency',
+    values='Age Group',
+    aggfunc='count',
+    fill_value=0
 )
 
-# -----------------------------------------------------------
-# PAGE 1: Lifestyle & Health Conditions
-# -----------------------------------------------------------
-if page == "Lifestyle & Health Conditions":
-    st.header("🎯 Relationship between Lifestyle Habits and Health Conditions")
+fig4 = go.Figure(
+    data=go.Heatmap(
+        z=pivot.values,
+        x=pivot.columns,
+        y=pivot.index,
+        colorscale='YlGnBu'
+    )
+)
 
-    col1, col2, col3 = st.columns(3)
+fig4.update_layout(
+    title='Relationship Between Physical Activity and Mental Health',
+    xaxis_title='Mental Health Frequency',
+    yaxis_title='Physical Activity Level'
+)
+st.plotly_chart(fig4, use_container_width=True)
+# ==============================================================
+# OBJECTIVE 2: Compare Lifestyle Behaviors Across Different Age Groups and Genders
+# ==============================================================
 
-    # 1. Smoking Habit vs Health Conditions
-    with col1:
-        if 'Smoking Habit' in df.columns and 'Current Health Conditions' in df.columns:
-            cross = pd.crosstab(df['Smoking Habit'], df['Current Health Conditions'])
-            fig1 = px.bar(
-                cross,
-                barmode="stack",
-                title="Smoking Habit vs Current Health Conditions",
-                labels={'index': 'Smoking Habit', 'value': 'Count'}
-            )
-            st.plotly_chart(fig1, use_container_width=True)
-        else:
-            st.warning("Required columns missing: 'Smoking Habit', 'Current Health Conditions'")
+st.header("🎯 Objective 2: Compare Lifestyle Behaviors Across Different Age Groups and Genders")
 
-    # 2. Physical Activity vs Mental Health (Heatmap)
-    with col2:
-        if 'Physical Activity Level' in df.columns and 'Mental Health Frequency' in df.columns:
-            pivot = df.pivot_table(
-                index='Physical Activity Level',
-                columns='Mental Health Frequency',
-                values=df.columns[0],
-                aggfunc='count',
-                fill_value=0
-            )
-            fig2 = px.imshow(
-                pivot,
-                color_continuous_scale='YlGnBu',
-                text_auto=True,
-                title="Physical Activity Level vs Mental Health Frequency"
-            )
-            st.plotly_chart(fig2, use_container_width=True)
-        else:
-            st.warning("Required columns missing for heatmap.")
+# -----------------------------
+# Visualization 1: Physical Activity Level by Gender
+# -----------------------------
+st.subheader("1️⃣ Physical Activity Level by Gender")
 
-    # 3. Sleep Duration vs Physical Activity (Scatter)
-    with col3:
-        if 'Sleep Duration' in df.columns and 'Physical Activity Level' in df.columns:
-            fig3 = px.scatter(
-                df,
-                x='Sleep Duration',
-                y='Physical Activity Level',
-                color='Mental Health Frequency' if 'Mental Health Frequency' in df.columns else None,
-                title="Sleep Duration vs Physical Activity Level",
-                labels={'Sleep Duration': 'Sleep (hours)', 'Physical Activity Level': 'Activity Level'}
-            )
-            st.plotly_chart(fig3, use_container_width=True)
-        else:
-            st.warning("Columns 'Sleep Duration' or 'Physical Activity Level' missing.")
+fig1 = px.histogram(
+    df,
+    x='Physical Activity Level',
+    color='Gender',
+    barmode='group',
+    title='Physical Activity Level by Gender'
+)
+fig1.update_layout(
+    xaxis_title='Physical Activity Level',
+    yaxis_title='Count',
+    xaxis_tickangle=45
+)
+st.plotly_chart(fig1, use_container_width=True)
 
-# -----------------------------------------------------------
-# PAGE 2: Lifestyle by Age & Gender
-# -----------------------------------------------------------
-elif page == "Lifestyle by Age & Gender":
-    st.header("🧍‍♀️ Lifestyle Behaviors Across Age Groups and Genders")
+# -----------------------------
+# Visualization 2: Smoking Habits by Gender (Pie Charts Side-by-Side)
+# -----------------------------
+st.subheader("2️⃣ Smoking Habits by Gender")
 
-    col1, col2, col3 = st.columns(3)
+# Group and count
+gender_smoke = df.groupby('Gender')['Smoking Habit'].value_counts().unstack(fill_value=0)
 
-    # 1. Average Sleep Duration by Age Group (Line)
-    with col1:
-        if 'Age Group' in df.columns and 'Sleep Duration' in df.columns:
-            avg_sleep = df.groupby('Age Group')['Sleep Duration'].mean().reset_index()
-            fig4 = px.line(
-                avg_sleep,
-                x='Age Group',
-                y='Sleep Duration',
-                markers=True,
-                title="Average Sleep Duration by Age Group"
-            )
-            st.plotly_chart(fig4, use_container_width=True)
-        else:
-            st.warning("Missing columns for sleep vs age group.")
+# Create one pie chart per gender
+pie_charts = []
+for gender in gender_smoke.index:
+    gender_data = gender_smoke.loc[gender]
+    fig = px.pie(
+        values=gender_data.values,
+        names=gender_data.index,
+        title=f"Smoking Habits among {gender}s",
+        hole=0.3
+    )
+    pie_charts.append(fig)
 
-    # 2. Smoking Habits by Gender (Pie)
-    with col2:
-        if 'Gender' in df.columns and 'Smoking Habit' in df.columns:
-            genders = df['Gender'].dropna().unique()
-            tabs = st.tabs([str(g).title() for g in genders])
+# Display side-by-side
+cols = st.columns(len(pie_charts))
+for i, col in enumerate(cols):
+    with col:
+        st.plotly_chart(pie_charts[i], use_container_width=True)
 
-            for i, gender in enumerate(genders):
-                data = df[df['Gender'] == gender]['Smoking Habit'].value_counts().reset_index()
-                data.columns = ['Smoking Habit', 'Count']
-                with tabs[i]:
-                    fig5 = px.pie(
-                        data,
-                        names='Smoking Habit',
-                        values='Count',
-                        hole=0.4,
-                        title=f"Smoking Habits among {gender.title()}"
-                    )
-                    st.plotly_chart(fig5, use_container_width=True)
-        else:
-            st.warning("Required columns missing: 'Gender' or 'Smoking Habit'")
+# -----------------------------
+# Visualization 3: Fast Food Consumption Frequency by Age Group
+# -----------------------------
+st.subheader("3️⃣ Fast Food Consumption Frequency by Age Group")
 
-    # 3. BMI vs Age Group (Scatter)
-    with col3:
-        if 'BMI' in df.columns and 'Age Group' in df.columns:
-            fig6 = px.box(
-                df,
-                x='Age Group',
-                y='BMI',
-                color='Gender' if 'Gender' in df.columns else None,
-                title="BMI Distribution Across Age Groups"
-            )
-            st.plotly_chart(fig6, use_container_width=True)
-        else:
-            st.warning("Columns 'BMI' or 'Age Group' missing.")
+fastfood_age_crosstab = pd.crosstab(df['Age Group'], df['Fast Food Consumption Frequency']).reset_index()
+fastfood_melted = fastfood_age_crosstab.melt(id_vars='Age Group', var_name='Fast Food Frequency', value_name='Count')
 
-# -----------------------------------------------------------
-# PAGE 3: Access to Wellness by Region
-# -----------------------------------------------------------
-elif page == "Access to Wellness by Region":
-    st.header("🌍 Access to Healthcare and Wellness Resources by Region")
+fig3 = px.line(
+    fastfood_melted,
+    x='Age Group',
+    y='Count',
+    color='Fast Food Frequency',
+    markers=True,
+    title='Fast Food Consumption Frequency by Age Group'
+)
+fig3.update_layout(
+    xaxis_title='Age Group',
+    yaxis_title='Number of Respondents',
+    legend_title='Fast Food Consumption Frequency'
+)
+st.plotly_chart(fig3, use_container_width=True)
+# ==============================================================
+# OBJECTIVE 3: Visualize Access to Healthcare and Wellness Resources By Region
+# ==============================================================
 
-    col1, col2, col3 = st.columns(3)
+st.header("🎯 Objective 3: Visualize Access to Healthcare and Wellness Resources by Region")
 
-    # 1. Clean Water Access by Region
-    with col1:
-        if 'Region/Locality' in df.columns and 'Access to Clean Water & Sanitation' in df.columns:
-            fig7 = px.histogram(
-                df,
-                y='Region/Locality',
-                color='Access to Clean Water & Sanitation',
-                title='Clean Water Access by Region',
-                orientation='h'
-            )
-            st.plotly_chart(fig7, use_container_width=True)
-        else:
-            st.warning("Missing columns for clean water access plot.")
+# -----------------------------
+# Visualization 1: Access to Clean Water & Sanitation by Region/Locality
+# -----------------------------
+st.subheader("1️⃣ Access to Clean Water & Sanitation by Region/Locality")
 
-    # 2. Healthcare Visits vs Region (if available)
-    with col2:
-        if 'Region/Locality' in df.columns and 'Healthcare Visits' in df.columns:
-            visits = df.groupby('Region/Locality')['Healthcare Visits'].mean().reset_index()
-            fig8 = px.bar(
-                visits,
-                x='Region/Locality',
-                y='Healthcare Visits',
-                title='Average Healthcare Visits by Region'
-            )
-            st.plotly_chart(fig8, use_container_width=True)
-        else:
-            st.info("No 'Healthcare Visits' data available.")
+water_access_region_crosstab = pd.crosstab(df['Region/Locality'], df['Access to Clean Water & Sanitation']).reset_index()
+water_access_melted = water_access_region_crosstab.melt(id_vars='Region/Locality', var_name='Access Type', value_name='Count')
 
-    # 3. Wellness Program Participation (if available)
-    with col3:
-        if 'Wellness Program Participation' in df.columns:
-            fig9 = px.pie(
-                df,
-                names='Wellness Program Participation',
-                title="Participation in Wellness Programs"
-            )
-            st.plotly_chart(fig9, use_container_width=True)
-        else:
-            st.info("No 'Wellness Program Participation' column found.")
+fig1 = px.bar(
+    water_access_melted,
+    x='Region/Locality',
+    y='Count',
+    color='Access Type',
+    barmode='stack',
+    title='Access to Clean Water & Sanitation by Region/Locality'
+)
+fig1.update_layout(
+    xaxis_title='Region/Locality',
+    yaxis_title='Number of Respondents',
+    xaxis_tickangle=45
+)
+st.plotly_chart(fig1, use_container_width=True)
 
-st.markdown("---")
-st.caption("Data source: Mendeley Data | Visualization built using Streamlit & Plotly Express")
+# -----------------------------
+# Visualization 2: Healthcare Access Method by Region/Locality
+# -----------------------------
+st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
+
+healthcare_access_region_pivot = df.pivot_table(
+    index='Region/Locality',
+    columns='Healthcare Access Method',
+    values='Name',  # Any column just for counting
+    aggfunc='count',
+    fill_value=0
+).reset_index()
+
+# Melt for heatmap style
+healthcare_melted = healthcare_access_region_pivot.melt(id_vars='Region/Locality', var_name='Healthcare Method', value_name='Count')
+
+fig2 = px.density_heatmap(
+    healthcare_melted,
+    x='Healthcare Method',
+    y='Region/Locality',
+    z='Count',
+    color_continuous_scale='YlGnBu',
+    title='Healthcare Access Method by Region/Locality'
+)
+st.plotly_chart(fig2, use_container_width=True)
+
+# -----------------------------
+# Visualization 3: Mental Health Frequency by Region/Locality
+# -----------------------------
+st.subheader("3️⃣ Mental Health Frequency by Region/Locality")
+
+mental_health_region_crosstab = pd.crosstab(df['Region/Locality'], df['Mental Health Frequency']).reset_index()
+mental_health_melted = mental_health_region_crosstab.melt(id_vars='Region/Locality', var_name='Mental Health Frequency', value_name='Count')
+
+fig3 = px.line(
+    mental_health_melted,
+    x='Region/Locality',
+    y='Count',
+    color='Mental Health Frequency',
+    markers=True,
+    title='Mental Health Frequency by Region/Locality'
+)
+fig3.update_layout(
+    xaxis_title='Region/Locality',
+    yaxis_title='Number of Respondents',
+    legend_title='Mental Health Frequency',
+    xaxis_tickangle=45
+)
+st.plotly_chart(fig3, use_container_width=True)
+
+
 
 
 
