@@ -139,15 +139,14 @@ with tab3:
 
     # 2️⃣ Healthcare Access Method by Region/Locality 
    st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
-
-# Create pivot table
-healthcare = df.pivot_table(
+    # Create pivot table
+    healthcare = df.pivot_table(
     index='Region/Locality',
     columns='Healthcare Access Method',
     values='Name',
     aggfunc='count',
     fill_value=0
-).reset_index()
+    ).reset_index()
 
 # Melt for plotting
 melted8 = healthcare.melt(id_vars='Region/Locality', var_name='Healthcare Method', value_name='Count')
