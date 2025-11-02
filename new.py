@@ -14,6 +14,8 @@ st.set_page_config(page_title="Lifestyle & Health Dashboard", layout="wide")
 st.title("🏥 Lifestyle & Health Data Visualization Dashboard")
 st.markdown("Explore insights into **lifestyle habits**, **demographics**, and **wellness resources**.")
 
+st.subheader("📋 Dataset Overview")
+st.dataframe(df.head())
 # --------------------------------------------------------
 # Create tabs for each Objective
 # --------------------------------------------------------
