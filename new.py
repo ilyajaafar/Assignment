@@ -7,6 +7,8 @@ import plotly.express as px
 # --------------------------------------------------------
 df = pd.read_csv("dataset (1).csv")
 
+# Map gender abbreviations to full words
+df['Gender'] = df['Gender'].replace({'M': 'Male', 'F': 'Female', 'm': 'Male', 'f': 'Female'})
 st.set_page_config(page_title="Lifestyle & Health Dashboard", layout="wide")
 
 st.title("🏥 Lifestyle & Health Data Visualization Dashboard")
