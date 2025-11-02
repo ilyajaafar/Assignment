@@ -138,15 +138,16 @@ with tab3:
     st.plotly_chart(fig7, use_container_width=True)
 
     # 2️⃣ Healthcare Access Method by Region/Locality 
-   st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
-    # Create pivot table
-    healthcare = df.pivot_table(
+ st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
+
+# Create pivot table
+healthcare = df.pivot_table(
     index='Region/Locality',
     columns='Healthcare Access Method',
     values='Name',
     aggfunc='count',
     fill_value=0
-    ).reset_index()
+).reset_index()
 
 # Melt for plotting
 melted8 = healthcare.melt(id_vars='Region/Locality', var_name='Healthcare Method', value_name='Count')
@@ -154,11 +155,11 @@ melted8 = healthcare.melt(id_vars='Region/Locality', var_name='Healthcare Method
 # Create horizontal bar chart
 fig8 = px.bar(
     melted8,
-    y='Region/Locality',     # <-- y instead of x
-    x='Count',               # <-- x instead of y
+    y='Region/Locality',  # Regions on Y-axis
+    x='Count',            # Count on X-axis
     color='Healthcare Method',
     barmode='group',
-    orientation='h',         # <-- this makes it horizontal
+    orientation='h',      # Horizontal bars
     title='Healthcare Access Method by Region/Locality'
 )
 
