@@ -9,8 +9,8 @@ df = pd.read_csv("dataset (1).csv")
 
 # Map gender abbreviations to full words
 df['Gender'] = df['Gender'].replace({'M': 'Male', 'F': 'Female', 'm': 'Male', 'f': 'Female'})
-st.set_page_config(page_title="Lifestyle & Health Dashboard", layout="wide")
 
+st.set_page_config(page_title="Lifestyle & Health Dashboard", layout="wide")
 st.title("🏥 Lifestyle & Health Data Visualization Dashboard")
 st.markdown("Explore insights into **lifestyle habits**, **demographics**, and **wellness resources**.")
 
@@ -137,47 +137,40 @@ with tab3:
     fig7.update_layout(xaxis_title='Region/Locality', yaxis_title='Number of Respondents', xaxis_tickangle=45)
     st.plotly_chart(fig7, use_container_width=True)
 
-    #2️⃣ Healthcare Access Method by Region/Locality 
-st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
+    # 2️⃣ Healthcare Access Method by Region/Locality
+    st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
+    healthcare = df.pivot_table(
+        index='Region/Locality',
+        columns='Healthcare Access Method',
+        values='Name',
+        aggfunc='count',
+        fill_value=0
+    ).reset_index()
 
-# Create pivot table
-healthcare = df.pivot_table(
-    index='Region/Locality',
-    columns='Healthcare Access Method',
-    values='Name',
-    aggfunc='count',
-    fill_value=0
-).reset_index()
+    melted8 = healthcare.melt(
+        id_vars='Region/Locality',
+        var_name='Healthcare Method',
+        value_name='Count'
+    )
 
-# Melt for plotting
-melted8 = healthcare.melt(
-    id_vars='Region/Locality',
-    var_name='Healthcare Method',
-    value_name='Count'
-)
+    fig8 = px.bar(
+        melted8,
+        y='Region/Locality',
+        x='Count',
+        color='Healthcare Method',
+        barmode='group',
+        orientation='h',
+        title='Healthcare Access Method by Region/Locality'
+    )
 
-# Create horizontal bar chart
-fig8 = px.bar(
-    melted8,
-    y='Region/Locality',
-    x='Count',
-    color='Healthcare Method',
-    barmode='group',
-    orientation='h',
-    title='Healthcare Access Method by Region/Locality'
-)
+    fig8.update_layout(
+        xaxis_title='Number of Respondents',
+        yaxis_title='Region/Locality',
+        legend_title='Healthcare Method'
+    )
+    st.plotly_chart(fig8, use_container_width=True)
 
-# Customize layout
-fig8.update_layout(
-    xaxis_title='Number of Respondents',
-    yaxis_title='Region/Locality',
-    legend_title='Healthcare Method'
-)
-
-st.plotly_chart(fig8, use_container_width=True)
-
-
-    #3️⃣ Mental Health Frequency by Region/Locality
+    # 3️⃣ Mental Health Frequency by Region/Locality
     st.subheader("3️⃣ Mental Health Frequency by Region/Locality")
     mental_health = pd.crosstab(df['Region/Locality'], df['Mental Health Frequency']).reset_index()
     melted9 = mental_health.melt(id_vars='Region/Locality', var_name='Mental Health Frequency', value_name='Count')
@@ -191,9 +184,5 @@ st.plotly_chart(fig8, use_container_width=True)
         legend_title='Mental Health Frequency', xaxis_tickangle=45
     )
     st.plotly_chart(fig9, use_container_width=True)
-
-
-
-
 
 
