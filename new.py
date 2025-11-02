@@ -177,7 +177,7 @@ fig8.update_layout(
 st.plotly_chart(fig8, use_container_width=True)
 
 
-    # 3️⃣ Mental Health Frequency by Region/Locality
+    #3️⃣ Mental Health Frequency by Region/Locality
     st.subheader("3️⃣ Mental Health Frequency by Region/Locality")
     mental_health = pd.crosstab(df['Region/Locality'], df['Mental Health Frequency']).reset_index()
     melted9 = mental_health.melt(id_vars='Region/Locality', var_name='Mental Health Frequency', value_name='Count')
