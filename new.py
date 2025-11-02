@@ -137,19 +137,41 @@ with tab3:
     fig7.update_layout(xaxis_title='Region/Locality', yaxis_title='Number of Respondents', xaxis_tickangle=45)
     st.plotly_chart(fig7, use_container_width=True)
 
-    # 2️⃣ Healthcare Access Method by Region/Locality (Bar instead of Heatmap)
-    st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
-    healthcare = df.pivot_table(
-        index='Region/Locality', columns='Healthcare Access Method',
-        values='Name', aggfunc='count', fill_value=0
-    ).reset_index()
-    melted8 = healthcare.melt(id_vars='Region/Locality', var_name='Healthcare Method', value_name='Count')
+    # 2️⃣ Healthcare Access Method by Region/Locality 
+   st.subheader("2️⃣ Healthcare Access Method by Region/Locality")
 
-    fig8 = px.bar(
-        melted8, x='Region/Locality', y='Count', color='Healthcare Method',
-        barmode='group', title='Healthcare Access Method by Region/Locality'
-    )
-    st.plotly_chart(fig8, use_container_width=True)
+# Create pivot table
+healthcare = df.pivot_table(
+    index='Region/Locality',
+    columns='Healthcare Access Method',
+    values='Name',
+    aggfunc='count',
+    fill_value=0
+).reset_index()
+
+# Melt for plotting
+melted8 = healthcare.melt(id_vars='Region/Locality', var_name='Healthcare Method', value_name='Count')
+
+# Create horizontal bar chart
+fig8 = px.bar(
+    melted8,
+    y='Region/Locality',     # <-- y instead of x
+    x='Count',               # <-- x instead of y
+    color='Healthcare Method',
+    barmode='group',
+    orientation='h',         # <-- this makes it horizontal
+    title='Healthcare Access Method by Region/Locality'
+)
+
+# Customize layout
+fig8.update_layout(
+    xaxis_title='Number of Respondents',
+    yaxis_title='Region/Locality',
+    legend_title='Healthcare Method'
+)
+
+st.plotly_chart(fig8, use_container_width=True)
+
 
     # 3️⃣ Mental Health Frequency by Region/Locality
     st.subheader("3️⃣ Mental Health Frequency by Region/Locality")
