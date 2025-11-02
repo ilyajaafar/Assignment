@@ -34,7 +34,7 @@ with tab1:
 
     fig1 = px.bar(
         melted1, x='Smoking Habit', y='Count', color='Health Condition',
-        barmode='group', title='Smoking Habit vs Current Health Conditions'
+        barmode='stack', title='Smoking Habit vs Current Health Conditions'
     )
     st.plotly_chart(fig1, use_container_width=True)
 
